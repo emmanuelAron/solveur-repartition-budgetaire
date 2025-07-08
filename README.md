@@ -33,7 +33,6 @@ Ce code permet de répartir un **montant budgétaire global** entre plusieurs co
 ## 📸 Extraits du code (Java)
 
 
-```markdown
 ![reliquat et VP](screenshots/solveur1.jpg)
 ![boucle solveur](screenshots/solveur2.jpg)
 
